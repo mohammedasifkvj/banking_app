@@ -2,7 +2,7 @@
 
 A banking application built with microservices architecture.
 
-## 🚀 Services Overview
+## Services Overview
 
 PLACEHOLDER FOR ARCHITECTURE DIAGRAM
 
@@ -22,7 +22,7 @@ PLACEHOLDER FOR ARCHITECTURE DIAGRAM
 | Redis        | 6379 | Cache & session management |
 | Redis UI     | 8001 | Redis management interface |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Node.js
 - TypeScript
@@ -30,7 +30,7 @@ PLACEHOLDER FOR ARCHITECTURE DIAGRAM
 - Redis
 - Microservices Architecture
 
-## 🚦 Getting Started
+## Getting Started
 
 1. Clone the repository
 2. Install dependencies for each service
